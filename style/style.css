@@ -1,0 +1,49 @@
+.search-bar {
+  margin: 20px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.search-bar input {
+  width: 75%;
+}
+
+.video-item img {
+  max-width: 64px;
+}
+
+.details {
+  height: 100%;
+  min-height: 100%;
+  width: 100%;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: #eee;
+}
+
+.list-group {
+  padding-top: 20px;
+}
+
+.recommended-grid-info {
+  height: 130px;
+}
+
+.slider-top-grids {
+  padding-bottom: 20px;
+}
+
+.panel-heading {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.panel-body {
+  font-size: 16px;
+}
