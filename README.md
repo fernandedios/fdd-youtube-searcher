@@ -1,6 +1,6 @@
 # FDD Concept: Youtube Searcher
 
-Working prototype of a games search web application
+Working prototype of a youtube searcher web application
 - ReactJS
 
 Description and working demo can be found here:
