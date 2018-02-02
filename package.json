@@ -11,7 +11,7 @@
     "test:watch": "npm run test -- --watch",
     "postinstall": "webpack -p"
   },
-  "author": "",
+  "author": "Fernan de Dios",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.2.1",
