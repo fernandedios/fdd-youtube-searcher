@@ -17,10 +17,9 @@ $ npm install
 $ npm start
 ```
 
-Resources
+Preview
 ---------
-More information and working demo can be found here:
-> http://fernandedios.com/index.php?page=experiments&id=video
+Access the [application preview].
 
 Thanks
 ------
@@ -32,3 +31,4 @@ Thanks
 > Twitter [@fernan_de_dios](https://twitter.com/fernan_de_dios)
 
 [MIT License]: http://mit-license.org/
+[application preview]: https://video-sampler.herokuapp.com/
